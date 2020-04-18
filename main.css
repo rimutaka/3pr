@@ -46,10 +46,6 @@ a.theme-link:hover {
     color: #364e5999;
 }
 
-#mailmunch-optin-form .headline, .headline {
-  display: none;
-}
-
 @media (prefers-reduced-motion: reduce) {
   .btn {
     -webkit-transition: none;
